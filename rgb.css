@@ -1,0 +1,18 @@
+div
+{
+    height: 200px;
+    width: 500px;
+    margin: auto;
+    background-color: black;
+    
+}
+body{
+    text-align: center;
+}
+
+button
+{
+    height: 50px;
+    width: 100px;
+    border-radius: 25%;
+}
